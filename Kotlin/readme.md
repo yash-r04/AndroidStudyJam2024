@@ -1,4 +1,4 @@
 # Practice Kotlin
 ***
-**Correct the incorrect codes and send pull requests
-**Learn to work in teams
+1. **Correct the incorrect codes and send pull requests**
+2. **Learn to work in teams**
